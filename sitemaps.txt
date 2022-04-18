@@ -1,0 +1,4 @@
+https://example.com/sitemap.xml
+https://example.com/sitemap_2.xml
+https://example.com/sitemap_3.xml
+https://example.com/sitemap_4.xml
